@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/lib/jvm/java-6-oracle/bin/jarsigner -verify -verbose -certs PippaPigJump_unalign.apk
